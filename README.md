@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipe site, using HTML and CSS on what i've learned so far in Odin Project.
+A simple recipe site, using HTML and CSS on what i've learned so far in Odin Project. For practice and learning purposes.
