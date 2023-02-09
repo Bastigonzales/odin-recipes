@@ -1,0 +1,85 @@
+.container h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    text-align: center;
+    border: 4px solid;
+    border-radius: 10px;
+    width: 200px;
+    margin: auto;
+    background-color: rgb(212, 171, 110);
+}
+
+.container {
+    font-family: sans-serif, 'open sans';
+}
+
+.ing{
+    font-size: 18px;
+    border: 3px solid;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    width: 250px;
+    background-color: azure;
+    margin-bottom: 50px;
+    
+}
+
+.ing-2 {
+    font-size: 18px;
+    border: 3px solid;
+    font-weight: bold;
+    padding-left: 0px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    width: 250px;
+    background-color: azure;
+    margin-bottom: 50px;
+}
+
+.title {
+    padding-left:50px;
+}
+
+.desc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 40px;
+    font-weight: normal;
+}
+
+.steps {
+    border: 5px dotted;
+    border-color: rgb(90, 79, 211);
+    width: 50%;
+    padding: 10px;
+}
+
+
+u {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    font-family: sans-serif, 'open sans';
+    background-color: rgba(145, 219, 209, 0.547);
+}
+
+img {
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a :hover {
+    color: green;
+}
+
+li,ol {
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+
+
