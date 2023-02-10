@@ -43,7 +43,8 @@
 .desc {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 40px;
-    font-weight: normal;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .steps {
@@ -51,6 +52,8 @@
     border-color: rgb(90, 79, 211);
     width: 50%;
     padding: 10px;
+    line-height: 2;
+    
 }
 
 
@@ -61,6 +64,7 @@ u {
 body {
     font-family: sans-serif, 'open sans';
     background-color: rgba(145, 219, 209, 0.547);
+    
 }
 
 img {
