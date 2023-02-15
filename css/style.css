@@ -41,24 +41,29 @@
 }
 
 .desc {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode;
     margin-bottom: 40px;
     font-weight: bold;
     font-size: 20px;
 }
 
 .steps {
-    border: 5px dotted;
+    border: 5px groove;
     border-color: rgb(90, 79, 211);
     width: 50%;
     padding: 10px;
     line-height: 2;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
     
 }
 
 .italic-line {
     font-style: italic;
     font-family: Calibri, Arial;
+}
+
+.nutrition {
+    margin-bottom: 60px;
 }
 
 
