@@ -8,8 +8,14 @@
     background-color: rgb(212, 171, 110);
 }
 
+
 .container {
     font-family: sans-serif, 'open sans';
+}
+
+.heading-container  {
+    max-width: 30%;
+    margin: 0 auto;
 }
 
 .ing{
@@ -18,9 +24,11 @@
     font-weight: bold;
     padding-left: 20px;
     padding-bottom: 15px;
-    width: 250px;
     background-color: azure;
+    max-width: 450px;
+    margin: 0 auto;
     margin-bottom: 50px;
+    
     
 }
 
@@ -33,6 +41,8 @@
     padding-bottom: 15px;
     width: 250px;
     background-color: azure;
+    max-width: 450px;
+    margin: 0 auto;
     margin-bottom: 50px;
 }
 
@@ -50,11 +60,14 @@
 .steps {
     border: 5px groove;
     border-color: rgb(90, 79, 211);
-    width: 50%;
+    max-width: 650px;
+    margin: 0 auto;
     padding: 10px;
     line-height: 2;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
-    
+    line-height: 2;
+    background-color: cornsilk  ;
+
 }
 
 .italic-line {
@@ -63,7 +76,13 @@
 }
 
 .nutrition {
+    max-width: 650px;
+    margin: 0 auto;
     margin-bottom: 60px;
+}
+
+.recipes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -87,9 +106,27 @@ a {
     font-size: 20px;
 }
 
-a :hover {
+.nutrition
+.space-link, ul
+a:hover {
     color: green;
+    display: inline-block;
 }
+
+.nutrition
+.home-link
+a:hover {
+    color: green;
+    display: inline-block;
+}
+
+.nutrition
+.home-link {
+    font-weight: bold;
+
+}
+
+
 
 li,ol {
     margin-bottom: 12px;
